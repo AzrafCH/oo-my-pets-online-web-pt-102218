@@ -23,6 +23,10 @@ class Owner
     OWNERS.clear
   end 
   
+  def self.count
+    OWNERS.size 
+  end 
+  
   
   
 end
