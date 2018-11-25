@@ -15,6 +15,10 @@ class Owner
     "I am a #{species}"
   end 
   
-  def 
+  def self.all 
+    OWNERS 
+  end 
+  
+  
   
 end
