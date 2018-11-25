@@ -19,6 +19,7 @@ class Owner
     OWNERS 
   end 
   
+  def.self.reset
   
   
 end
