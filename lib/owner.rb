@@ -27,6 +27,7 @@ class Owner
     OWNERS.size 
   end 
   
-  
+  def buy_fish
+    
   
 end
