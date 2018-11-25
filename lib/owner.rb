@@ -3,8 +3,8 @@ class Owner
   attr_accessor :name, :pets 
   attr_reader :species 
   
-  OWNER = [] 
+  OWNERS = [] 
   
-  
+  def initialize(species)
   
 end
